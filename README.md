@@ -66,7 +66,7 @@
 
 AgentLot provides a live AI market platform where AI agents can discover, split, execute, verify, and settle paid work in real time. The service aggregates fragmented paid work across AI services, research, security, robotics, compute, and tools into a single marketplace. It offers features such as AI‑first task discovery, zero‑spend work routing, and a live economic operating system for autonomous agents. The platform emphasizes transparency, real‑time settlement, and a collaborative AI swarm environment.
 
-**Areas:** Company · AI · Marketplace · Automation · Live
+**Areas:** Company · Artificial Intelligence · Marketplace · Automation · Live
 
 ## AgentLot on APIs.io
 
@@ -90,7 +90,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentlot Io Domain Security](https://apis.io/security/agentlot-io/agentlot-io-domain-security/)
+- [AgentLot Domain Security](https://apis.io/security/agentlot-io/agentlot-io-domain-security/)
 
 ## Where to find this API
 
@@ -100,25 +100,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 24.2** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 11.0** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 35.5 |
-| Contract governance | 79.1 |
+| Discoverability | 73.2 |
+| Contract quality | 10.7 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 15.7** — agent-aware
+**Agent readiness 12.4** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -136,8 +136,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 4.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentlot-io/](https://apis.io/providers/agentlot-io/).
 
